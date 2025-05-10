@@ -1,0 +1,277 @@
+{
+    "jobListings": [
+        {
+            "id": 1,
+            "job-tile": "Graphic Designer",
+            "company": "Design Studio",
+            "location": "Denver, CO",
+            "Date-Posted": "2023-02-20",
+            "Remote/On-site": "Remote",
+            "work-type": "Contract"
+        },
+        {
+            "id": 2,
+            "job-tile": "Software Engineer",
+            "company": "Tech Innovations",
+            "location": "San Francisco, CA",
+            "Date-Posted": "2023-03-15",
+            "Remote/On-site": "On-site",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 3,
+            "job-tile": "Data Analyst",
+            "company": "Data Insights",
+            "location": "New York, NY",
+            "Date-Posted": "2023-01-10",
+            "Remote/On-site": "Remote",
+            "work-type": "Part-time"
+        },
+        {
+            "id": 4,
+            "job-tile": "Project Manager",
+            "company": "Business Solutions",
+            "location": "Austin, TX",
+            "Date-Posted": "2023-04-05",
+            "Remote/On-site": "Hybrid",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 5,
+            "job-tile": "UX/UI Designer",
+            "company": "Creative Agency",
+            "location": "Seattle, WA",
+            "Date-Posted": "2023-03-25",
+            "Remote/On-site": "Remote",
+            "work-type": "Remote"
+        },
+        {
+            "id": 6,
+            "job-tile": "Marketing Specialist",
+            "company": "Marketing Pros",
+            "location": "Chicago, IL",
+            "Date-Posted": "2023-02-28",
+            "Remote/On-site": "On-site",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 7,
+            "job-tile": "Web Developer",
+            "company": "Web Solutions",
+            "location": "Boston, MA",
+            "Date-Posted": "2023-03-10",
+            "Remote/On-site": "Remote",
+            "work-type": "Part-time"
+        },
+        {
+            "id": 8,
+            "job-tile": "Data Scientist",
+            "company": "AI Innovations",
+            "location": "Los Angeles, CA",
+            "Date-Posted": "2023-01-20",
+            "Remote/On-site": "Hybrid",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 9,
+            "job-tile": "Content Writer",
+            "company": "Content Creators",
+            "location": "Miami, FL",
+            "Date-Posted": "2023-03-30",
+            "Remote/On-site": "Remote",
+            "work-type": "Remote"
+        },
+        {
+            "id": 10,
+            "job-tile": "Sales Executive",
+            "company": "Sales Gurus",
+            "location": "Dallas, TX",
+            "Date-Posted": "2023-02-15",
+            "Remote/On-site": "On-site",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 11,
+            "job-tile": "Network Administrator",
+            "company": "IT Solutions",
+            "location": "Phoenix, AZ",
+            "Date-Posted": "2023-03-05",
+            "Remote/On-site": "Hybrid",
+            "work-type": "Part-time"
+        },
+        {
+            "id": 12,
+            "job-tile": "SEO Specialist",
+            "company": "Digital Marketing",
+            "location": "Atlanta, GA",
+            "Date-Posted": "2023-02-22",
+            "Remote/On-site": "Remote",
+            "work-type": "Remote"
+        },
+        {
+            "id": 13,
+            "job-tile": "Business Analyst",
+            "company": "Consulting Group",
+            "location": "Philadelphia, PA",
+            "Date-Posted": "2023-03-12",
+            "Remote/On-site": "On-site",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 14,
+            "job-tile": "DevOps Engineer",
+            "company": "Cloud Services",
+            "location": "San Diego, CA",
+            "Date-Posted": "2023-01-30",
+            "Remote/On-site": "Remote",
+            "work-type": "Part-time"
+        },
+        {
+            "id": 15,
+            "job-tile": "Customer Support Specialist",
+            "company": "Support Team",
+            "location": "Orlando, FL",
+            "Date-Posted": "2023-03-18",
+            "Remote/On-site": "Hybrid",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 16,
+            "job-tile": "Mobile App Developer",
+            "company": "App Creators",
+            "location": "Portland, OR",
+            "Date-Posted": "2023-02-10",
+            "Remote/On-site": "Remote",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 17,
+            "job-tile": "Database Administrator",
+            "company": "Data Management",
+            "location": "Charlotte, NC",
+            "Date-Posted": "2023-03-20",
+            "Remote/On-site": "On-site",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 18,
+            "job-tile": "Graphic Designer Intern",
+            "company": "Design Studio",
+            "location": "Denver, CO",
+            "Date-Posted": "2023-04-01",
+            "Remote/On-site": "Remote",
+            "work-type": "Part-time"
+        },
+        {
+            "id": 19,
+            "job-tile": "Software Tester",
+            "company": "Quality Assurance",
+            "location": "San Francisco, CA",
+            "Date-Posted": "2023-03-28",
+            "Remote/On-site": "Hybrid",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 20,
+            "job-tile": "Technical Writer",
+            "company": "Documentation Team",
+            "location": "New York, NY",
+            "Date-Posted": "2023-02-25",
+            "Remote/On-site": "Remote",
+            "work-type": "Remote"
+        },
+        {
+            "id": 21,
+            "job-tile": "Cloud Engineer",
+            "company": "Cloud Solutions",
+            "location": "Austin, TX",
+            "Date-Posted": "2023-03-02",
+            "Remote/On-site": "On-site",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 22,
+            "job-tile": "Cybersecurity Analyst",
+            "company": "Security Team",
+            "location": "Chicago, IL",
+            "Date-Posted": "2023-01-15",
+            "Remote/On-site": "Remote",
+            "work-type": "Part-time"
+        },
+        {
+            "id": 23,
+            "job-tile": "Network Engineer",
+            "company": "Networking Solutions",
+            "location": "Boston, MA",
+            "Date-Posted": "2023-03-08",
+            "Remote/On-site": "Hybrid",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 24,
+            "job-tile": "Product Manager",
+            "company": "Product Innovations",
+            "location": "Los Angeles, CA",
+            "Date-Posted": "2023-02-18",
+            "Remote/On-site": "Remote",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 25,
+            "job-tile": "Social Media Manager",
+            "company": "Social Media Agency",
+            "location": "Miami, FL",
+            "Date-Posted": "2023-03-22",
+            "Remote/On-site": "On-site",
+            "work-type": "Part-time"
+        },
+        {
+            "id": 26,
+            "job-tile": "Business Development Manager",
+            "company": "Business Growth",
+            "location": "Dallas, TX",
+            "Date-Posted": "2023-02-12",
+            "Remote/On-site": "Hybrid",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 27,
+            "job-tile": "Data Engineer",
+            "company": "Data Solutions",
+            "location": "Phoenix, AZ",
+            "Date-Posted": "2023-03-14",
+            "Remote/On-site": "Remote",
+            "work-type": "Part-time"
+        },
+        {
+            "id": 28,
+            "job-tile": "HR Specialist",
+            "company": "Human Resources Team",
+            "location": "Atlanta, GA",
+            "Date-Posted": "2023-01-28",
+            "Remote/On-site": "On-site",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 29,
+            "job-tile": "Game Developer",
+            "company": "Gaming Studio",
+            "location": "Philadelphia, PA",
+            "Date-Posted": "2023-03-16",
+            "Remote/On-site": "Hybrid",
+            "work-type": "Full-time"
+        },
+        {
+            "id": 30,
+            "job-tile": "E-commerce Specialist",
+            "company": "E-commerce Solutions",
+            "location": "San Diego, CA",
+            "Date-Posted": "2023-02-05",
+            "Remote/On-site": "Remote",
+            "work-type": "Part-time"
+        }
+
+       
+       
+    ]
+}
